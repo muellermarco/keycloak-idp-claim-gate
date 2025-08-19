@@ -182,10 +182,5 @@ Example:
 
 ---
 
-## License
-
-MIT
-
----
 
 
